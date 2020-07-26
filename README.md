@@ -6,25 +6,15 @@
     <a href="https://www.linkedin.com/in/sauravmh/"><img height="30" src="https://raw.githubusercontent.com/sauravhiremath/sauravhiremath/master/icon/linkedin.png?token=AG2QVW4OPHOCB4RIW5WPU527E3JCM"></a>
 </p>
 
-<p>
-  <a href="https://github.com/sauravhiremath">
-    <img height="400" align="left" src="https://raw.githubusercontent.com/sauravhiremath/sauravhiremath/master/icon/pixel-person.png?token=AG2QVWZJFRIUESAGW6NKKSC7E3LPC">
-  </a>
-</p>
-
 <h2 align="left"> About me 👨‍💻</h2> 
-
----
 
 Hey there 👋,
 
-I am a Rising Junior Engineering student studying in Vellore Institute of Technology, Vellore. A weirdly joyful person who loves to work on open source and personal projects. I'll let my github profile fill in rest of the details for you.
+I am a Rising Junior Engineering student studying in Vellore Institute of Technology, Vellore. A weirdly joyful person who loves to work on open source technologies and personal projects. I'll let my github profile fill in rest of the details for you.
 
-Hit me up on twitter 🙌, if you in for a cup of coffee!
+Hit me up on twitter 🙌, if you in for a cup of coffee or a discussion!
 
 Check me out on [sauravmh.com](https://sauravmh.com) to know more
-
----
 
 <h2 align="left"> Currently working on 🚀</h2>
 
@@ -35,9 +25,11 @@ Check me out on [sauravmh.com](https://sauravmh.com) to know more
 
 <h2 align="left"> My digital garden 🌱 </h2>
 
----
-
 Not a regular writer per se, but I do love sharing interesting findings through my blogs.
 
 * You may find me on [dev.to/sauravmh](https://dev.to/sauravmh)
 * Or, on [medium.com/@sauravmh](https://medium.com/@sauravmh)
+
+<br>
+
+![You're breathtaking](https://raw.githubusercontent.com/sauravhiremath/sauravhiremath/master/icon/breathtaking.png?token=AG2QVW3ZHL57F3OW47JHPHC7E3VEU)
