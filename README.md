@@ -23,13 +23,4 @@ Check me out on [sauravmh.com](https://sauravmh.com) to know more
 * [fifa](https://github.com/sauravhiremath/fifa)
 * [fifa-api](https://github.com/sauravhiremath/fifa-api)
 
-<h2 align="left"> My digital garden 🌱 </h2>
-
-Not a regular writer per se, but I do love sharing interesting findings through my blogs.
-
-* You may find me on [dev.to/sauravmh](https://dev.to/sauravmh)
-* Or, on [medium.com/@sauravmh](https://medium.com/@sauravmh)
-
-<br>
-
 ![You're breathtaking](https://raw.githubusercontent.com/sauravhiremath/sauravhiremath/master/icon/breathtaking.png?token=AG2QVW3ZHL57F3OW47JHPHC7E3VEU)
