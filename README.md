@@ -2,13 +2,20 @@
     <img src="https://user-images.githubusercontent.com/28642011/103785166-e5f42f80-5060-11eb-8d59-08d16a0eca12.png" />
 </p>
 
-![Saurav's github stats](https://github-readme-stats.vercel.app/api?username=sauravhiremath&count_private=true&show_icons=true&theme=gruvbox&hide_border=true)
+<div align="center">
+  <a href="https://github.com/sauravhiremath">
+    <img src="https://github-readme-stats.vercel.app/api?username=sauravhiremath&count_private=true&show_icons=true&theme=dark&hide_border=true" width="49%" >
+  </a>
+  <a href="https://github.com/sauravhiremath">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravhiremath&theme=dark&hide_border=true" width="49%" >
+  </a>
+</div>
 
-I am a Rising Junior Engineering student studying in Vellore Institute of Technology, Vellore. A weirdly joyful person who loves to work on open source technologies and personal projects. I'll let my github profile fill in rest of the details for you.
+<br>
 
-Hit me up on twitter @sauravmh 🙌, if you in for a cup of coffee or a discussion!
+I am a Junior Computer Science Engineering student studying in VIT, Vellore. Software Developer specialized in Web Development, Security, and DevOps. A passionate Blogger and Innovative Thinker with a proven ability to turn ideas into concrete solutions. I'll let my github profile fill in rest of the details for you.
 
-Check me out on [sauravmh.com](https://sauravmh.com) to know more.
+Hit me up on twitter [@sauravmh](https://twitter.com/sauravmh) to see the other side 🙌
 
 <p align='center'>
      <a href="https://sauravmh.com">
@@ -20,8 +27,8 @@ Check me out on [sauravmh.com](https://sauravmh.com) to know more.
     <a href="https://twitter.com/sauravmh">
         <img src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white" />
     </a>&nbsp;&nbsp;
-    <a href="https://instagram.com/sauravv_404/">
-        <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white" />
+    <a href="https://blog.sauravmh.com">
+        <img src="https://img.shields.io/badge/My%20Blogs-3b5998?style=for-the-badge&logo=Stadia&logoColor=white" />
     </a>&nbsp;&nbsp;
     <a href="https://medium.com/@sauravmh">
         <img src="https://img.shields.io/badge/-Medium-F99A66?style=for-the-badge&logo=Medium&logoColor=white" />
@@ -55,23 +62,7 @@ Check me out on [sauravmh.com](https://sauravmh.com) to know more.
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/facebook/jest?style=flat-square"/></td> 
       </tr>
       <tr>
-        <td><a href="https://github.com/Niotane/Collectup"><b>🚚 Collectup</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Niotane/Collectup?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/Niotane/Collectup?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/Niotane/Collectup?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Niotane/Collectup?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Niotane/Collectup?style=flat-square"/></td> 
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/bundly/dash"><b>🚀 Bundly</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/bundly/dash?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/bundly/dash?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/bundly/dash?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bundly/dash?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/bundly/dash?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/sauravhiremath/fifa"><b>⚽ Fifa</b></a></td>
+        <td><a href="https://github.com/sauravhiremath/fifa"><b>⚽ Fifa</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/sauravhiremath/fifa?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/sauravhiremath/fifa?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/sauravhiremath/fifa?style=flat-square"/></td>
@@ -79,7 +70,7 @@ Check me out on [sauravmh.com](https://sauravmh.com) to know more.
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/sauravhiremath/fifa?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/sauravhiremath/fifa-api"><b>⚽+💻 Fifa-api</b></a></td>
+        <td><a href="https://github.com/sauravhiremath/fifa-api"><b>⚽+💻 Fifa-api</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/sauravhiremath/fifa-api?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/sauravhiremath/fifa-api?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/sauravhiremath/fifa-api?style=flat-square"/></td>
@@ -87,7 +78,7 @@ Check me out on [sauravmh.com](https://sauravmh.com) to know more.
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/sauravhiremath/fifa-api?style=flat-square"/></td> 
       </tr>
       <tr>
-	      <td><a href="https://github.com/sauravhiremath/fifa-stats-crawler"><b>⚽+🕷️ Fifa-stats-crawler</b></a></td>
+        <td><a href="https://github.com/sauravhiremath/fifa-stats-crawler"><b>⚽+🕷️ Fifa-stats-crawler</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/sauravhiremath/fifa-stats-crawler?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/sauravhiremath/fifa-stats-crawler?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/sauravhiremath/fifa-stats-crawler?style=flat-square"/></td>
