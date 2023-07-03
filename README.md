@@ -4,7 +4,7 @@
 
 <br>
 
-I am a Senior Computer Science Engineering student studying in VIT, Vellore. Software Developer specialized in Web, Security, and DevOps. A passionate Blogger and Innovative Thinker with a proven ability to turn ideas into concrete solutions. I'll let my github profile fill in rest of the details for you.
+I am a Software Engineer working at Orca Security, Israel - specialising in Backend Infrastructure and CyberSecurity. A passionate Blogger and Innovative Thinker with a proven ability to turn ideas into concrete solutions. I'll let my github profile fill in rest of the details for you.
 
 Hit me up on twitter [@sauravmh](https://twitter.com/sauravmh) to see the other side 🙌
 
