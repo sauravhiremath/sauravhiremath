@@ -1,5 +1,3 @@
-### Heya! I'm Saurav, Senior dev and 2x founder
-
 I build things, design stuff, and like to keep my sources open. I primarily focus on building Agentic AI systems for enterprises, but don't shy away from some fun projects on the side 🌝
 
 I'm best reached on email: greetsaurav@gmail.com
